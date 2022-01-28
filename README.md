@@ -1,4 +1,4 @@
-# TREAT-ION Case record forms 
+# Treat-ION Case record forms 
 
 This repository holds the templates and associated data on the TREAT-ION register with all data to build it an independent [REDCap](https://www.project-redcap.org/) instance.
 
